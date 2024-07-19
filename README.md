@@ -1,2 +1,2 @@
 # Machine-Learning-Resources
-Master repo for Machine Learning resources
+Master repository for mastering basic Machine Learning.
