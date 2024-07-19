@@ -1,0 +1,11 @@
+Andrew NG OG course :
+https://www.youtube.com/playlist?list=PLiPvV5TNogxIS4bHQVW4pMkj4CHA8COdX
+This playlist contains a total of 103 videos covering concepts of ML in depth.
+
+Machine Learning by CodeBasics :
+https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw
+This playlist covers a total of 42 videos. Both theory and python implementation of the Algorithms are included. (Would suggest this playlist for beginners who have knowledge of python.)
+
+Machine Learning One shot by Krish Naik :
+https://www.youtube.com/watch?v=JxgmHe2NyeY&t=9938s&pp=ygURbWFjaGluZSBsZWFybmluZyA%3D
+This 6.5 Hrs of one shot video mostly all basic ML concepts. Would suggest this if you want a quick revision. Ps practicals are also included wherever necessary.
